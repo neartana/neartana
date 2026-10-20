@@ -47,8 +47,12 @@
 
 <h2 align="center">More builds</h2>
 
-- **[manga-translator](https://github.com/neartana/manga-translator)** — one-click manga/comic page translator: detects bubble text, removes it, translates, re-letters the page.
-- **[Cursor-Ready](https://github.com/neartana/Cursor-Ready)** — a SaaS app starter, ready to build on.
+<p align="center">
+  <strong><a href="https://github.com/neartana/manga-translator">manga-translator</a></strong> — one-click manga/comic page translator: detects bubble text, removes it, translates, re-letters the page.<br>
+  <strong><a href="https://github.com/neartana/Cursor-Ready">Cursor-Ready</a></strong> — a SaaS app starter, ready to build on.
+</p>
+
+---
 
 <h2 align="center">Toolbox</h2>
 
@@ -62,11 +66,19 @@
   <img src="https://img.shields.io/badge/Node.js-06525C?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
 </p>
 
+---
+
 <h2 align="center">Numbers</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=neartana&show_icons=true&bg_color=F7F9F8&title_color=06525C&icon_color=06525C&text_color=2F737D&border_color=DAE3E0" alt="neartana — GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neartana&layout=compact&bg_color=F7F9F8&title_color=06525C&text_color=2F737D&border_color=DAE3E0" alt="neartana — top languages">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=neartana&show_icons=true&bg_color=0D1117&title_color=5EEAD4&icon_color=2DD4BF&text_color=C9D1D9&border_color=30363D">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=neartana&show_icons=true&bg_color=F7F9F8&title_color=06525C&icon_color=06525C&text_color=2F737D&border_color=DAE3E0" alt="neartana — GitHub stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=neartana&layout=compact&bg_color=0D1117&title_color=5EEAD4&text_color=C9D1D9&border_color=30363D">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neartana&layout=compact&bg_color=F7F9F8&title_color=06525C&text_color=2F737D&border_color=DAE3E0" alt="neartana — top languages">
+  </picture>
 </p>
 
 ---

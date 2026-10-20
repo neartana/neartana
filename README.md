@@ -22,7 +22,7 @@
       <code>npx skills add neartana/frame-note</code>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/neartana/dohctor"><img src="assets/dohctor.webp" height="120" alt="Dohctor logo"></a><br>
+      <a href="https://github.com/neartana/dohctor"><img src="assets/dohctor-emblem.webp" height="120" alt="Dohctor logo"></a><br>
       <strong><a href="https://github.com/neartana/dohctor">Dohctor</a></strong><br>
       A DNS doctor for AI agents — diagnose DNS blocking &amp; poisoning, resolve and fetch over DNS-over-HTTPS. Keyless.<br>
       <code>npx skills add neartana/dohctor</code>

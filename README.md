@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/neartana-ascii.svg" width="100%" alt="NEARTANA">
+  <img src="assets/neartana-koi.svg" width="100%" alt="NEARTANA — koi dot-matrix">
 </p>
 
 <p align="center">
@@ -65,5 +65,5 @@
 
 <p align="center">
   Building in public from Bekasi. If a tool here saves you time, a ⭐ is the cheapest thank-you.<br>
-  <sub>Design direction: “pinned poster” — teal on paper. The ASCII title, the little cat, and every project logo are my own.</sub>
+  <sub>Design direction: “pinned poster” — teal on paper. The dot-matrix koi, the ASCII title, the little cat, and every project logo are my own. Raw koi ASCII: <a href="assets/koi-ascii.txt">assets/koi-ascii.txt</a>.</sub>
 </p>

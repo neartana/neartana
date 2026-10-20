@@ -15,22 +15,30 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://github.com/neartana/frame-note"><img src="assets/framenote.webp" height="120" alt="FrameNote logo"></a><br>
       <strong><a href="https://github.com/neartana/frame-note">FrameNote</a></strong><br>
       Your agent can't watch videos — FrameNote teaches it to read them: frame by frame, note by note.<br>
       <code>npx skills add neartana/frame-note</code>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://github.com/neartana/dohctor"><img src="assets/dohctor-emblem.webp" height="120" alt="Dohctor logo"></a><br>
       <strong><a href="https://github.com/neartana/dohctor">Dohctor</a></strong><br>
       A DNS doctor for AI agents — diagnose DNS blocking &amp; poisoning, resolve and fetch over DNS-over-HTTPS. Keyless.<br>
       <code>npx skills add neartana/dohctor</code>
     </td>
-    <td align="center" width="33%">
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <a href="https://github.com/neartana/Tracenime"><img src="assets/tracenime.webp" height="120" alt="Tracenime logo"></a><br>
       <strong><a href="https://github.com/neartana/Tracenime">Tracenime</a></strong><br>
       Point at any anime screenshot — Tracenime names the series, episode and timestamp. Brutalist Kinetic Orange, all data stays in your browser.
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/neartana/Anigraph"><img src="assets/anigraph.svg" height="120" alt="Anigraph logo"></a><br>
+      <strong><a href="https://github.com/neartana/Anigraph">Anigraph</a></strong><br>
+      Your anime &amp; manga library, in perspective — statistics, recommendations, tier lists and airing schedules for AniList &amp; MyAnimeList users.<br>
+      <a href="https://anigraph-phi.vercel.app">anigraph-phi.vercel.app</a>
     </td>
   </tr>
 </table>

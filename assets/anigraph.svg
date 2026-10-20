@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" aria-label="Anigraph">
+  <rect width="120" height="120" rx="24" fill="#0A121E"/>
+  <g transform="translate(24 24)">
+    <rect width="24" height="72" fill="#3DB4F2"/>
+    <rect x="32" width="40" height="32" fill="#F2F5F8"/>
+    <rect x="32" y="40" width="40" height="32" fill="#4FD1C5"/>
+  </g>
+</svg>

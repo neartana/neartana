@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/neartana-koi.svg" width="100%" alt="NEARTANA — koi dot-matrix">
+  <img src="assets/aeax-glitch.svg" width="100%" alt="AEAX — glitch">
 </p>
 
 <p align="center">
@@ -65,5 +65,5 @@
 
 <p align="center">
   Building in public from Bekasi. If a tool here saves you time, a ⭐ is the cheapest thank-you.<br>
-  <sub>Design direction: “pinned poster” — teal on paper. The dot-matrix koi, the ASCII title, the little cat, and every project logo are my own. Raw koi ASCII: <a href="assets/koi-ascii.txt">assets/koi-ascii.txt</a>.</sub>
+  <sub>Hero: “AEAX” in pale blocks on a dark grid — every few seconds it bursts into red/cyan glitch slices. Every project logo below is my own.</sub>
 </p>

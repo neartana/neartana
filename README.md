@@ -2,12 +2,6 @@
   <img src="assets/bugle-ascii-white.png" width="100%" alt="Brass bugle — gold ASCII">
 </p>
 
-<p align="center">
-  <strong>Indie builder from Bekasi, Indonesia 🇮🇩</strong><br>
-  I build tools for AI agents — and small web apps with strong design opinions.<br>
-  Everything here is open source (MIT), and most of it installs in one line.
-</p>
-
 ---
 
 <h2 align="center">Works</h2>

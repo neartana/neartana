@@ -65,21 +65,6 @@
 
 ---
 
-<h2 align="center">Numbers</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=neartana&show_icons=true&bg_color=0D1117&title_color=5EEAD4&icon_color=2DD4BF&text_color=C9D1D9&border_color=30363D">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=neartana&show_icons=true&bg_color=F7F9F8&title_color=06525C&icon_color=06525C&text_color=2F737D&border_color=DAE3E0" alt="neartana — GitHub stats">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=neartana&layout=compact&bg_color=0D1117&title_color=5EEAD4&text_color=C9D1D9&border_color=30363D">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neartana&layout=compact&bg_color=F7F9F8&title_color=06525C&text_color=2F737D&border_color=DAE3E0" alt="neartana — top languages">
-  </picture>
-</p>
-
----
-
 <p align="center">
   Building in public from Bekasi. If a tool here saves you time, a ⭐ is the cheapest thank-you.<br>
   <sub>Hero: a brass bugle drawn in gold ASCII — every character placed from the photo's own light and shadow. Every project logo below is my own.</sub>

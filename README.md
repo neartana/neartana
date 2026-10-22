@@ -62,10 +62,3 @@
   <img src="https://img.shields.io/badge/Go-06525C?style=flat-square&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/Node.js-06525C?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
 </p>
-
----
-
-<p align="center">
-  Building in public from Bekasi. If a tool here saves you time, a ⭐ is the cheapest thank-you.<br>
-  <sub>Hero: a brass bugle drawn in gold ASCII — every character placed from the photo's own light and shadow. Every project logo below is my own.</sub>
-</p>

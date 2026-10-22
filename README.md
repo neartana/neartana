@@ -41,6 +41,19 @@
       <a href="https://anigraph-phi.vercel.app">anigraph-phi.vercel.app</a>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/neartana/Nai"><img src="assets/nai.svg" height="120" alt="Nai logo"></a><br>
+      <strong><a href="https://github.com/neartana/Nai">Nai</a></strong><br>
+      The AI that's yours — a personal assistant bubble on every page: chat, voice, page scans and PDFs, skills, and a memory you approve.
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/neartana/nextshift"><img src="assets/nextshift.webp" height="120" alt="nextshift logo"></a><br>
+      <strong><a href="https://github.com/neartana/nextshift">nextshift</a></strong><br>
+      Switch AI coding agents without losing the thread — one <code>/continue</code> command resumes another agent's work from a shared <code>.agent/</code> checkpoint.<br>
+      <code>npx github:neartana/nextshift</code>
+    </td>
+  </tr>
 </table>
 
 ---

@@ -4,8 +4,6 @@
 
 ---
 
-<h2 align="center">Pinned</h2>
-
 - **[FrameNote](https://github.com/neartana/frame-note)** — an AI agent skill for watching videos & reels: downloads via self-hosted Cobalt, reads the frames, and saves a Markdown note. `npx skills add neartana/frame-note`
 - **[Dohctor](https://github.com/neartana/dohctor)** — a DNS doctor for AI agents: diagnose DNS blocking & poisoning, resolve and fetch over DNS-over-HTTPS. Keyless. `npx skills add neartana/dohctor`
 - **[Tracenime](https://github.com/neartana/Tracenime)** — name that anime from a screenshot: series, episode and timestamp via trace.moe + AniList. React · TypeScript · all data stays in your browser

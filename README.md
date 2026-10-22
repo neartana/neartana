@@ -51,15 +51,6 @@
 
 ---
 
-<h2 align="center">More builds</h2>
-
-<p align="center">
-  <strong><a href="https://github.com/neartana/manga-translator">manga-translator</a></strong> — one-click manga/comic page translator: detects bubble text, removes it, translates, re-letters the page.<br>
-  <strong><a href="https://github.com/neartana/Cursor-Ready">Cursor-Ready</a></strong> — from rough idea to Cursor-ready plan: an 8-step pipeline ending in a PRD, a feature list, and a rules pack for AI coding tools.
-</p>
-
----
-
 <h2 align="center">Toolbox</h2>
 
 <p align="center">

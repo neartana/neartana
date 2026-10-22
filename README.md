@@ -10,7 +10,7 @@
 
 ---
 
-<h2 align="center">The series</h2>
+<h2 align="center">Work</h2>
 <p align="center">One name pinned at the top; the work changes underneath.</p>
 
 <table align="center">

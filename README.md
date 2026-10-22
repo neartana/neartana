@@ -6,48 +6,12 @@
 
 <h2 align="center">Pinned</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/neartana/frame-note"><img src="assets/framenote.webp" height="120" alt="FrameNote logo"></a><br>
-      <strong><a href="https://github.com/neartana/frame-note">FrameNote</a></strong><br>
-      Your agent can't watch videos — FrameNote teaches it to read them: frame by frame, note by note.<br>
-      <code>npx skills add neartana/frame-note</code>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/neartana/dohctor"><img src="assets/dohctor-emblem.webp" height="120" alt="Dohctor logo"></a><br>
-      <strong><a href="https://github.com/neartana/dohctor">Dohctor</a></strong><br>
-      A DNS doctor for AI agents — diagnose DNS blocking &amp; poisoning, resolve and fetch over DNS-over-HTTPS. Keyless.<br>
-      <code>npx skills add neartana/dohctor</code>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/neartana/Tracenime"><img src="assets/tracenime.webp" height="120" alt="Tracenime logo"></a><br>
-      <strong><a href="https://github.com/neartana/Tracenime">Tracenime</a></strong><br>
-      Point at any anime screenshot — Tracenime names the series, episode and timestamp. Brutalist Kinetic Orange, all data stays in your browser.
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/neartana/Anigraph"><img src="assets/anigraph.svg" height="120" alt="Anigraph logo"></a><br>
-      <strong><a href="https://github.com/neartana/Anigraph">Anigraph</a></strong><br>
-      Your anime &amp; manga library, in perspective — statistics, recommendations, tier lists and airing schedules for AniList &amp; MyAnimeList users.<br>
-      <a href="https://anigraph-phi.vercel.app">anigraph-phi.vercel.app</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/neartana/Nai"><img src="assets/nai.svg" height="120" alt="Nai logo"></a><br>
-      <strong><a href="https://github.com/neartana/Nai">Nai</a></strong><br>
-      The AI that's yours — a personal assistant bubble on every page: chat, voice, page scans and PDFs, skills, and a memory you approve.
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/neartana/nextshift"><img src="assets/nextshift.webp" height="120" alt="nextshift logo"></a><br>
-      <strong><a href="https://github.com/neartana/nextshift">nextshift</a></strong><br>
-      Switch AI coding agents without losing the thread — one <code>/continue</code> command resumes another agent's work from a shared <code>.agent/</code> checkpoint.<br>
-      <code>npx github:neartana/nextshift</code>
-    </td>
-  </tr>
-</table>
+- **[FrameNote](https://github.com/neartana/frame-note)** — an AI agent skill for watching videos & reels: downloads via self-hosted Cobalt, reads the frames, and saves a Markdown note. `npx skills add neartana/frame-note`
+- **[Dohctor](https://github.com/neartana/dohctor)** — a DNS doctor for AI agents: diagnose DNS blocking & poisoning, resolve and fetch over DNS-over-HTTPS. Keyless. `npx skills add neartana/dohctor`
+- **[Tracenime](https://github.com/neartana/Tracenime)** — name that anime from a screenshot: series, episode and timestamp via trace.moe + AniList. React · TypeScript · all data stays in your browser
+- **[Anigraph](https://github.com/neartana/Anigraph)** — your anime & manga library, in perspective: statistics, recommendations, tier lists and airing schedules for AniList & MyAnimeList users. Vanilla JS · [Live](https://anigraph-phi.vercel.app)
+- **[Nai](https://github.com/neartana/Nai)** — the AI that's yours: a personal assistant bubble on every page — chat, voice, page scans and PDFs, with a memory you approve. Manifest V3 · vanilla JS · zero dependencies
+- **[nextshift](https://github.com/neartana/nextshift)** — switch AI coding agents without losing the thread: one `/continue` command resumes another agent's work from a shared `.agent/` checkpoint. `npx github:neartana/nextshift`
 
 ---
 

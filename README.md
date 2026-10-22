@@ -4,8 +4,7 @@
 
 ---
 
-<h2 align="center">Works</h2>
-<p align="center">One name pinned at the top; the work changes underneath.</p>
+<h2 align="center">Pinned</h2>
 
 <table align="center">
   <tr>

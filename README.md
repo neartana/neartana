@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/anatraen-halftone.svg" width="100%" alt="ANATRAEN — halftone wave">
+  <img src="assets/bugle-ascii.png" width="100%" alt="Brass bugle — gold ASCII">
 </p>
 
 <p align="center">
@@ -98,5 +98,5 @@
 
 <p align="center">
   Building in public from Bekasi. If a tool here saves you time, a ⭐ is the cheapest thank-you.<br>
-  <sub>Hero: “ANATRAEN” in halftone dots — a slow wave swells through the letters. (Yes, it's “neartana” spelled backwards.) Every project logo below is my own.</sub>
+  <sub>Hero: a brass bugle drawn in gold ASCII — every character placed from the photo's own light and shadow. Every project logo below is my own.</sub>
 </p>

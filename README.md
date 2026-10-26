@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/bugle-ascii-transparent.png" width="100%" alt="Brass bugle — gold ASCII">
+  <img src="assets/ascii-hero.png" width="100%" alt="ASCII art hero">
 </p>
 
 ---

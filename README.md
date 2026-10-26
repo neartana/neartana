@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/ascii-hero2-dark.png">
-    <img src="assets/ascii-hero2-light.png" width="100%" alt="ASCII art hero">
-  </picture>
+  <img src="assets/ascii-hero3.jpg" width="100%" alt="ASCII art hero">
 </p>
 
 ---
